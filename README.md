@@ -11,7 +11,9 @@ NOTE: The default VS Code theme does not color much. Use a theme like one of the
 - [Syntax Highlight Theme](https://marketplace.visualstudio.com/items?itemName=peaceshi.syntax-highlight)
 
 ## How do I use it?
-Just install the VS Code extension and the changes will automatically be applied to all relevent files.
+Just install the VS Code extension, ensure your files carry the relevant file-extensions and the changes will automatically be applied to all relevent files.
+
+Eg: Docker files carrying .dockerfile extension
 
 Before                     | After
 :-------------------------:|:-------------------------:
